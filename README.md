@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3795DD&center=true&vCenter=true&multiline=true&random=false&width=500&height=60&lines=+Future+Big+Tech+Founder;Blockchain+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3795DD&center=true&vCenter=true&multiline=true&random=false&width=500&height=60&lines=+Future+Big+Tech+Founder/CEO;Blockchain+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
