@@ -44,7 +44,6 @@ class ProfileBuilder implements DeveloperProfile {
           "Java",
           "C++"
         ]
-
       }</code></pre>
     </td>
     <td>
